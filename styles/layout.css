@@ -109,9 +109,12 @@ article img {
     display:inline;
 }
 
-.imagefocus {
-    border-color: #ba9;
-    outline-color:black;
+th {
+    padding: .5em 5em;
+}
+
+tr td{
+    text-align: center;
 }
 
 
